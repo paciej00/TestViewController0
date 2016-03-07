@@ -11,13 +11,7 @@
 		695B92441C89A7D400862F95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695B92421C89A7D400862F95 /* Main.storyboard */; };
 		695B92461C89A7D400862F95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 695B92451C89A7D400862F95 /* Assets.xcassets */; };
 		695B92491C89A7D400862F95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695B92471C89A7D400862F95 /* LaunchScreen.storyboard */; };
-		695B92511C89A80200862F95 /* Then.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B92501C89A80200862F95 /* Then.swift */; };
 		695B92531C89A82200862F95 /* TestViewController0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B92521C89A82200862F95 /* TestViewController0.swift */; };
-		695B92551C89A84100862F95 /* TestViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B92541C89A84100862F95 /* TestViewController1.swift */; };
-		695B92571C89A86B00862F95 /* TestViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B92561C89A86B00862F95 /* TestViewController2.swift */; };
-		695B92591C89A88200862F95 /* TestViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B92581C89A88200862F95 /* TestViewController3.swift */; };
-		695B925B1C89A89C00862F95 /* TestViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B925A1C89A89C00862F95 /* TestViewController4.swift */; };
-		695B925D1C89A8CE00862F95 /* TestViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B925C1C89A8CE00862F95 /* TestViewController5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,13 +21,7 @@
 		695B92451C89A7D400862F95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		695B92481C89A7D400862F95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		695B924A1C89A7D400862F95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		695B92501C89A80200862F95 /* Then.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Then.swift; sourceTree = "<group>"; };
 		695B92521C89A82200862F95 /* TestViewController0.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController0.swift; sourceTree = "<group>"; };
-		695B92541C89A84100862F95 /* TestViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController1.swift; sourceTree = "<group>"; };
-		695B92561C89A86B00862F95 /* TestViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController2.swift; sourceTree = "<group>"; };
-		695B92581C89A88200862F95 /* TestViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController3.swift; sourceTree = "<group>"; };
-		695B925A1C89A89C00862F95 /* TestViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController4.swift; sourceTree = "<group>"; };
-		695B925C1C89A8CE00862F95 /* TestViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,13 +59,7 @@
 				695B92451C89A7D400862F95 /* Assets.xcassets */,
 				695B92471C89A7D400862F95 /* LaunchScreen.storyboard */,
 				695B924A1C89A7D400862F95 /* Info.plist */,
-				695B92501C89A80200862F95 /* Then.swift */,
 				695B92521C89A82200862F95 /* TestViewController0.swift */,
-				695B92541C89A84100862F95 /* TestViewController1.swift */,
-				695B92561C89A86B00862F95 /* TestViewController2.swift */,
-				695B92581C89A88200862F95 /* TestViewController3.swift */,
-				695B925A1C89A89C00862F95 /* TestViewController4.swift */,
-				695B925C1C89A8CE00862F95 /* TestViewController5.swift */,
 			);
 			path = ABC;
 			sourceTree = "<group>";
@@ -153,13 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				695B925D1C89A8CE00862F95 /* TestViewController5.swift in Sources */,
-				695B92551C89A84100862F95 /* TestViewController1.swift in Sources */,
-				695B92571C89A86B00862F95 /* TestViewController2.swift in Sources */,
-				695B92511C89A80200862F95 /* Then.swift in Sources */,
 				695B92531C89A82200862F95 /* TestViewController0.swift in Sources */,
-				695B925B1C89A89C00862F95 /* TestViewController4.swift in Sources */,
-				695B92591C89A88200862F95 /* TestViewController3.swift in Sources */,
 				695B923F1C89A7D400862F95 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -308,6 +284,7 @@
 				695B924F1C89A7D400862F95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
